@@ -5,11 +5,9 @@ NFT's can then be minted by sending transaction to the deployed smart contract.
 
 Find the NFT's on Opensea testnet:
 
-https://testnets.opensea.io/assets/0x1e9930Bc5f39dE0515BeC52612bc4510F7B236C0/1
+https://testnets.opensea.io/assets/0x74aC699a51711558f58a4fe630B7704D55d7d995/1
 
-https://testnets.opensea.io/assets/0xD6c24c9A49271bFe5a04B00363EB521a02768bA1/1
-
-<img width="1332" alt="Screenshot 2021-09-05 at 8 44 23 PM" src="https://user-images.githubusercontent.com/4893002/132132564-b0fb8524-3035-4e61-85db-17e5fda1fad6.png">
+<img width="1332" alt="Screenshot 2021-09-05 at 8 44 23 PM" src="https://user-images.githubusercontent.com/76644984/135570547-b16a4740-8361-4886-b7aa-bb348d1921d2.png">
 
 ### Dependencies:
 * `NodeJS`   
